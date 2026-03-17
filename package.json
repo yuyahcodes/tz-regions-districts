@@ -5,7 +5,7 @@
   "homepage": "https://github.com/yuyahcodes/tz-regions-districts-v1#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yuyahcodes/tz-regions-districts-v1.git"
+    "url": "git+https://github.com/yuyahcodes/tz-regions-districts.git"
   },
   "description": "Tanzania regions and districts dataset for JavaScript and TypeScript apps.",
   "type": "module",
